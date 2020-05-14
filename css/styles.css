@@ -78,11 +78,21 @@ h2 {
   padding-bottom: 10px;
 }
 
+.h2-getInTouch{
+  padding-top: 50px;
+  font-style: italic;
+  text-decoration: underline;
+}
+
 h3 {
   font-family: 'Merienda', cursive;
   color: #11999E;
   margin-top: 10px;
   padding-top: 5%;
+}
+
+.h3-needToConactMeDirectly{
+  padding: 0;
 }
 
 hr {
