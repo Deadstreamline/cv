@@ -1,0 +1,198 @@
+a {
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  background-color: #F9F9F9;
+  font-family: 'Merriweather', serif;
+}
+
+.bodyCloud {
+  position: absolute;
+  left: 25%;
+  top: 450px;
+  height: 100px;
+  width: 200px;
+  z-index: 1;
+}
+
+.bodyCloud1 {
+  position: absolute;
+  right: 25%;
+  top: 300px;
+  height: 100px;
+  width: 200px;
+  z-index: 0;
+}
+
+.bottom-container {
+  background-color: #cceabb;
+  padding: 50px 0 20px;
+}
+
+.contact-me {
+  background-color: #ffe0ac;
+  padding-bottom: 15px;
+}
+
+.copyright {
+  color: white;
+  font-size: 10px;
+  padding: 20px 0 20px 0;
+}
+
+.div1par1 {
+  font-style: italic;
+  font-family: fantasy;
+  font-size: 2.5rem;
+}
+
+.headCloud {
+  width: 100%;
+  height: 300px;
+}
+
+h1 {
+  color: #511845;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  display: block;
+}
+
+h2 {
+  font-family: 'Merienda', cursive;
+  font-size: 2.5rem;
+  color: #511845;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Merienda', cursive;
+  color: #11999E;
+  margin-top: 10px;
+  padding-top: 5%;
+}
+
+hr {
+  border: dotted #c060a1 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.imCarl {
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+}
+
+.img-photography {
+  border-radius: 100%;
+  width: 50%;
+  float: right;
+  margin-left: 100px;
+}
+
+.img-watchmaker{
+  border-radius: 100%;
+  width: 50%;
+  float: left;
+  margin-right: 100px;
+}
+
+.img-webdev {
+  border-radius: 100%;
+  width: 50%;
+  float: left;
+  margin-right: 100px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.mountainBottom {
+  height: 400px;
+  width: 100%;
+}
+
+.middle-container {
+  background-color: #ffd8a6;
+  padding-top: 100px;
+}
+
+.myButton {
+  box-shadow: inset 0 1px 0 0 #caefab;
+  background: linear-gradient(to bottom, #77d42a 5%, #5cb811 100%);
+  background-color: #77d42a;
+  border-radius: 8px;
+  border: 1px solid #268a16;
+  display: inline-block;
+  cursor: pointer;
+  color: #306108;
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 6px 24px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #aade7c;
+}
+
+.myButton:hover {
+  background: linear-gradient(to bottom, #5cb811 5%, #77d42a 100%);
+  background-color: #5cb811;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+p {
+  line-height: 2;
+}
+
+.photobox{
+  position: relative;
+  width: 100%;
+  margin-top: 30%;
+  margin-bottom: 30%;
+  text-align: right;
+}
+
+.skills {
+  position: relative;
+  width: 100%;
+}
+
+.skill-row {
+  width: 60%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  padding: 0;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 0;
+  background-color: #aeefec;
+}
+
+.watchmakerbox{
+  position: relative;
+  width: 100%;
+  margin-top: 30%;
+  margin-bottom: 30%;
+}
