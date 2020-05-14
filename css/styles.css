@@ -35,6 +35,29 @@ body {
   z-index: 0;
 }
 
+.boxWatchmaker{
+  position: relative;
+  width: 100%;
+  margin-top: 30%;
+  margin-bottom: 30%;
+}
+
+.boxPhoto{
+  position: relative;
+  width: 100%;
+  margin-top: 30%;
+  margin-bottom: 30%;
+  text-align: right;
+}
+
+.boxWebDevelopment{
+  position: relative;
+  width: 100%;
+  margin-top: 30%;
+  margin-bottom: 30%;
+  text-align: left;
+}
+
 .bottom-container {
   background-color: #cceabb;
   padding: 50px 0 20px;
@@ -176,21 +199,13 @@ p {
   line-height: 2;
 }
 
-.photobox{
-  position: relative;
-  width: 100%;
-  margin-top: 30%;
-  margin-bottom: 30%;
-  text-align: right;
-}
-
 .skills {
   position: relative;
   width: 100%;
 }
 
 .skill-row {
-  width: 60%;
+  width: 75%;
   margin: 100px auto 100px auto;
   text-align: left;
   padding: 0;
@@ -200,11 +215,4 @@ p {
   position: relative;
   padding-top: 0;
   background-color: #aeefec;
-}
-
-.watchmakerbox{
-  position: relative;
-  width: 100%;
-  margin-top: 30%;
-  margin-bottom: 30%;
 }
